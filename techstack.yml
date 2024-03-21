@@ -1,0 +1,199 @@
+repo_name: caseyspaulding/Blazor-ApexCharts
+report_id: 2c5b43319af0b789677aa7a927f077da
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T13:27:16+00:00'
+requested_by: joadan
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/src/Blazor-ApexCharts/Blazor-ApexCharts.csproj
+  detection_source: src/Blazor-ApexCharts/Blazor-ApexCharts.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2020-04-14 21:18:25.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/docs/BlazorApexCharts.Docs.Server/BlazorApexCharts.Docs.Server.csproj
+  detection_source: docs/BlazorApexCharts.Docs.Server/BlazorApexCharts.Docs.Server.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2021-10-04 19:15:54.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/docs/BlazorApexCharts.Docs.Server/BlazorApexCharts.Docs.Server.csproj
+  detection_source: docs/BlazorApexCharts.Docs.Server/BlazorApexCharts.Docs.Server.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2021-10-04 19:15:54.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/.github/workflows/deploy-docs.yml
+  detection_source: ".github/workflows/deploy-docs.yml"
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2021-10-07 20:31:59.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/src/Blazor-ApexCharts/Blazor-ApexCharts.csproj
+  detection_source: src/Blazor-ApexCharts/Blazor-ApexCharts.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2020-04-14 19:24:36.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/Blazor-ApexCharts.sln
+  detection_source: Blazor-ApexCharts.sln
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2021-09-27 18:38:02.000000000 Z
+- name: Bogus
+  description: A simple and sane data generator for populating objects that supports
+    different locales
+  package_url: https://www.nuget.org/Bogus
+  version: 34.0.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13693/default_d38a6d88fa73fea0e64b3d75e3f75ff6aebf7b80.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/docs/BlazorApexCharts.Docs/BlazorApexCharts.Docs.csproj
+  detection_source: docs/BlazorApexCharts.Docs/BlazorApexCharts.Docs.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2022-03-30 14:14:34.000000000 Z
+- name: Microsoft.AspNetCore.Components
+  description: Components feature for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Components
+  version: 6.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13166/default_b4059c3863f54504d1a911991b5fe93c60e9e43e.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/src/Blazor-ApexCharts/Blazor-ApexCharts.csproj
+  detection_source: src/Blazor-ApexCharts/Blazor-ApexCharts.csproj
+  last_updated_by: Raffaele Borrelli
+  last_updated_on: 2022-03-30 08:36:32.000000000 Z
+  vulnerabilities:
+  - name: 'Microsoft Security Advisory CVE-2023-36558: .NET Security Feature Bypass
+      Vulnerability'
+    cve_id: CVE-2023-36558
+    cve_url: https://github.com/advisories/GHSA-3fx3-85r4-8j3w
+    detected_date: Nov 15
+    severity: moderate
+    first_patched: 6.0.25
+- name: Microsoft.AspNetCore.Components.Web
+  description: Support for rendering ASP.NET Core components for browsers
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Components.Web
+  version: 6.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13128/default_59c6e81d6f4034b10a10bd52ec71c48c8d66e4eb.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/docs/BlazorApexCharts.Docs/BlazorApexCharts.Docs.csproj
+  detection_source: docs/BlazorApexCharts.Docs/BlazorApexCharts.Docs.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2023-02-10 12:54:57.000000000 Z
+- name: Microsoft.Extensions.Http
+  description: The HttpClient factory is a pattern for configuring and retrieving
+    named HttpClients in a composable way
+  package_url: https://www.nuget.org/Microsoft.Extensions.Http
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12940/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/caseyspaulding/Blazor-ApexCharts/blob/master/docs/BlazorApexCharts.Docs/BlazorApexCharts.Docs.csproj
+  detection_source: docs/BlazorApexCharts.Docs/BlazorApexCharts.Docs.csproj
+  last_updated_by: Joakim Dangården
+  last_updated_on: 2022-11-07 15:08:40.000000000 Z
